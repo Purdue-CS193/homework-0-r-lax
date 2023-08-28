@@ -1,3 +1,11 @@
+# Raffaella's First CS193 Homework
+
+## Some of my favorite things about CS193
+- It is a class run by students, who understand the issues that new Computer Science students may face when starting college.
+- The slides for this class are very aesthetically pleasing.
+- No exams!
+- CS193 will teach me useful skills for all of my current and future Computer Science courses.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
